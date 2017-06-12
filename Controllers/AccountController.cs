@@ -37,6 +37,7 @@ namespace MusicStore.Controllers
         [AllowAnonymous]
         public IActionResult Login(string returnUrl = null)
         {
+            System.Threading.Thread.Sleep(2000);
             ViewBag.ReturnUrl = returnUrl;
             return View();
         }
@@ -136,7 +137,8 @@ namespace MusicStore.Controllers
         [AllowAnonymous]
         public IActionResult Register()
         {
-            return View();
+            throw new System.Exception("ScugDemo");
+           // return View();
         }
 
         //

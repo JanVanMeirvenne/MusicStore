@@ -1,0 +1,9 @@
+D:\OneDrive - Inovativ\Community\SCUG\dev\DemoApp\MusicStore-rel-1.1.0\samples\MusicStore\bin\Release\netcoreapp1.1\MusicStore.deps.json
+D:\OneDrive - Inovativ\Community\SCUG\dev\DemoApp\MusicStore-rel-1.1.0\samples\MusicStore\bin\Release\netcoreapp1.1\MusicStore.runtimeconfig.json
+D:\OneDrive - Inovativ\Community\SCUG\dev\DemoApp\MusicStore-rel-1.1.0\samples\MusicStore\bin\Release\netcoreapp1.1\MusicStore.runtimeconfig.dev.json
+D:\OneDrive - Inovativ\Community\SCUG\dev\DemoApp\MusicStore-rel-1.1.0\samples\MusicStore\bin\Release\netcoreapp1.1\MusicStore.dll
+D:\OneDrive - Inovativ\Community\SCUG\dev\DemoApp\MusicStore-rel-1.1.0\samples\MusicStore\bin\Release\netcoreapp1.1\MusicStore.pdb
+D:\OneDrive - Inovativ\Community\SCUG\dev\DemoApp\MusicStore-rel-1.1.0\samples\MusicStore\obj\Release\netcoreapp1.1\MusicStore.csprojResolveAssemblyReference.cache
+D:\OneDrive - Inovativ\Community\SCUG\dev\DemoApp\MusicStore-rel-1.1.0\samples\MusicStore\obj\Release\netcoreapp1.1\MusicStore.AssemblyInfo.cs
+D:\OneDrive - Inovativ\Community\SCUG\dev\DemoApp\MusicStore-rel-1.1.0\samples\MusicStore\obj\Release\netcoreapp1.1\MusicStore.dll
+D:\OneDrive - Inovativ\Community\SCUG\dev\DemoApp\MusicStore-rel-1.1.0\samples\MusicStore\obj\Release\netcoreapp1.1\MusicStore.pdb

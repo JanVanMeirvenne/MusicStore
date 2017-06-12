@@ -4,7 +4,7 @@
     <Description>Music store application on ASP.NET 5</Description>
     <VersionPrefix>1.1.0</VersionPrefix>
     <Authors>Microsoft</Authors>
-    <TargetFrameworks>net451;netcoreapp1.1</TargetFrameworks>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
     <DefineConstants>$(DefineConstants);DEMO</DefineConstants>
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
     <PreserveCompilationContext>true</PreserveCompilationContext>
@@ -12,7 +12,7 @@
     <OutputType>Exe</OutputType>
     <PackageId>MusicStore</PackageId>
     <RuntimeFrameworkVersion Condition=" '$(TargetFramework)' == 'netcoreapp1.1' ">1.1.1</RuntimeFrameworkVersion>
-    <ApplicationInsightsResourceId>/subscriptions/9f2444e9-ca8b-4ddd-8ed9-53c3d45dc5bd/resourcegroups/JVMSCUGDEMO-RG/providers/microsoft.insights/components/MusicStore</ApplicationInsightsResourceId>
+    <ApplicationInsightsResourceId>/subscriptions/9f2444e9-ca8b-4ddd-8ed9-53c3d45dc5bd/resourcegroups/jvmscugdemo-rg/providers/microsoft.insights/components/jvmscugdemo-musicstore</ApplicationInsightsResourceId>
     <ApplicationInsightsAnnotationResourceId>/subscriptions/9f2444e9-ca8b-4ddd-8ed9-53c3d45dc5bd/resourcegroups/JVMSCUGDEMO-RG/providers/microsoft.insights/components/MusicStore</ApplicationInsightsAnnotationResourceId>
   </PropertyGroup>
 

@@ -43,6 +43,17 @@ namespace MusicStore
             }
             else
             {
+                string s = null;
+                s = Configuration.GetConnectionString("DBConnection");
+                if (s!= null){
+                    services.AddDbContext<MusicStoreContext>(options =>
+                        options.UseSqlServer(s.Replace("__", ":")));
+                } else
+                {
+                    
+                    services.AddDbContext<MusicStoreContext>(options =>
+                    options.UseInMemoryDatabase());
+                }
                 services.AddDbContext<MusicStoreContext>(options =>
                     options.UseSqlServer(Configuration[StoreConfig.ConnectionStringKey.Replace("__", ":")]));
             }
