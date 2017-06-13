@@ -6,3 +6,5 @@ D:\OneDrive - Inovativ\Community\SCUG\dev\DemoApp\MusicStore-rel-1.1.0\samples\M
 D:\OneDrive - Inovativ\Community\SCUG\dev\DemoApp\MusicStore-rel-1.1.0\samples\MusicStore\obj\Debug\netcoreapp1.1\MusicStore.AssemblyInfo.cs
 D:\OneDrive - Inovativ\Community\SCUG\dev\DemoApp\MusicStore-rel-1.1.0\samples\MusicStore\obj\Debug\netcoreapp1.1\MusicStore.dll
 D:\OneDrive - Inovativ\Community\SCUG\dev\DemoApp\MusicStore-rel-1.1.0\samples\MusicStore\obj\Debug\netcoreapp1.1\MusicStore.pdb
+D:\OneDrive - Inovativ\Community\SCUG\dev\DemoApp\MusicStore-rel-1.1.0\samples\MusicStore\obj\Debug\netcoreapp1.1\MusicStore.csproj.CoreCompileInputs.cache
+D:\OneDrive - Inovativ\Community\SCUG\dev\DemoApp\MusicStore-rel-1.1.0\samples\MusicStore\bin\Debug\netcoreapp1.1\config.json
